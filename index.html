@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        *{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        #all{
+            box-shadow: 0px 0px 20px 5px gray;
+            width: 300px;
+            position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50% , -50%);
+        }
+        .button{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            margin: 0px;
+            width: 100px;
+            height: 100px;
+            font-size: 50px;
+            border: solid white 0.4px;
+            background-color: cornflowerblue;
+            color: white;
+        }
+        #new-game{
+            background-color: green;
+            width: 100px;
+            border: 0.2px solid black;
+            border-radius: 5px;
+            color: white;
+            padding: 10px;
+            position: absolute;
+      top: 80%;
+      left: 50%;
+      transform: translate(-50% , -50%);
+        }
+        body{
+            background-color: rgb(47, 16, 70);
+        }
+        h3{
+            color: white;
+        }
+        span{
+            color : white;
+        }
+        #x-player , #o-player{
+            display : block;
+            transition: 5s;
+            font-size: 0px;
+            scale : 2px;
+        }
+        #chose-x , #chose-o{
+            background: rgb(119, 119, 119);
+            border-bottom: solid rgb(162, 0, 255) 8px ;
+            width: 100px;
+            height: 30px;
+            color : white;
+            transition: 2s;
+            border-top : solid black 0px;
+            border-left : solid black 0px;
+            border-right : solid black 0px;
+            opacity: 100%;
+            transition : 1s;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div align="center">
+    <h3><span id="x-player">X player is the winner !</span></h3>
+    <h3><span id="o-player">O player is the winner !</span></h3>
+</div>
+<div id="x-or-o" align="center">
+    <button id="chose-x" onclick="chosex()">x</button>
+    <button id="chose-o" onclick="choseo()">o</button>
+</div>
+    <div id="all" align="center">
+    <button id="1" onclick="one()" class="button">.</button><button id="2" onclick="two()" class="button">.</button><button id="3" onclick="three()" class="button">.</button>
+    <br>
+    <button id="4" onclick="four()" class="button">.</button><button id="5" onclick="five()" class="button">.</button><button id="6" onclick="six()" class="button">.</button>
+    <br>
+    <button id="7" onclick="seven()" class="button">.</button><button id="8" onclick="eight()" class="button">.</button><button id="9" onclick="nine()" class="button">.</button>
+    
+</div>
+
+<button id="new-game" onclick="neww()">new game</button>
+<script src="script.js" ></script>
+    <script>
+        
+    </script>
+</body>
+</html>
