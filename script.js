@@ -63,8 +63,13 @@ function neww(){
 }
 
 function one(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("1").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -201,8 +206,13 @@ function one(){
     //two
 }
 function two(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("2").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -339,8 +349,13 @@ function two(){
     //two
 }
 function three(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("3").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -477,8 +492,13 @@ function three(){
     //two
 }
 function four(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("4").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -615,8 +635,13 @@ function four(){
     //two
 }
 function five(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("5").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -753,8 +778,13 @@ function five(){
     //two
 }
 function six(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("6").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -891,8 +921,13 @@ function six(){
     //two
 }
 function seven(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("7").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -1029,8 +1064,13 @@ function seven(){
     //two
 }
 function eight(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("8").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
@@ -1167,8 +1207,13 @@ function eight(){
     //two
 }
 function nine(){
-    var audio = document.getElementById("audio");
-        audio.play();
+    if(XO == "x"){
+        var win = document.getElementById("audio");
+        win.play();
+    } else{
+        var wino = document.getElementById("win-o");
+        wino.play();
+    }
     document.getElementById("9").innerHTML = XO;
     if(XO == "x"){
         XO = "o"
