@@ -85,7 +85,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
-        
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -93,6 +101,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -100,6 +117,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -107,6 +133,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -114,6 +149,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -121,6 +165,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -133,6 +186,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -141,6 +203,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -148,6 +219,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -155,6 +235,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -162,6 +251,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -169,6 +267,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -180,6 +287,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -188,6 +304,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -195,6 +320,15 @@ function one(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -202,6 +336,15 @@ function one(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -228,6 +371,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -236,6 +388,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -243,6 +404,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -250,6 +420,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -257,6 +436,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -264,6 +452,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -276,6 +473,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -284,6 +490,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -291,6 +506,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -298,6 +522,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -305,6 +538,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -312,6 +554,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -323,6 +574,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -331,6 +591,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -338,6 +607,15 @@ function two(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -345,6 +623,15 @@ function two(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -371,6 +658,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -379,6 +675,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -386,6 +691,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -393,6 +707,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -400,6 +723,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -407,6 +739,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -419,6 +760,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -427,6 +777,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -434,6 +793,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -441,6 +809,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -448,6 +825,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -455,6 +841,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -466,6 +861,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -474,6 +878,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -481,6 +894,15 @@ function three(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -488,6 +910,15 @@ function three(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -514,6 +945,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -522,6 +962,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -529,6 +978,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -536,6 +994,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -543,6 +1010,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -550,6 +1026,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -562,6 +1047,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -570,6 +1064,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -577,6 +1080,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -584,6 +1096,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -591,6 +1112,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -598,6 +1128,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -609,6 +1148,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -617,6 +1165,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -624,6 +1181,15 @@ function four(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -631,6 +1197,15 @@ function four(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -657,6 +1232,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -665,6 +1249,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -672,6 +1265,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -679,6 +1281,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -686,6 +1297,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -693,6 +1313,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -705,6 +1334,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -713,6 +1351,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -720,6 +1367,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -727,6 +1383,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -734,6 +1399,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -741,6 +1415,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -752,6 +1435,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -760,6 +1452,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -767,6 +1468,15 @@ function five(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -774,6 +1484,15 @@ function five(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -800,6 +1519,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -808,6 +1536,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -815,6 +1552,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -822,6 +1568,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -829,6 +1584,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -836,6 +1600,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -848,6 +1621,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -856,6 +1638,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -863,6 +1654,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -870,6 +1670,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -877,6 +1686,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -884,6 +1702,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -895,6 +1722,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -903,6 +1739,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -910,6 +1755,15 @@ function six(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -917,6 +1771,15 @@ function six(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -943,6 +1806,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -951,6 +1823,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -958,6 +1839,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -965,6 +1855,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -972,6 +1871,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -979,6 +1887,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -991,6 +1908,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -999,6 +1925,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1006,6 +1941,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1013,6 +1957,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1020,6 +1973,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1027,6 +1989,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -1038,6 +2009,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -1046,6 +2026,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1053,6 +2042,15 @@ function seven(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1060,6 +2058,15 @@ function seven(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -1086,6 +2093,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -1094,6 +2110,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1101,6 +2126,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1108,6 +2142,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1115,6 +2158,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1122,6 +2174,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -1134,6 +2195,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -1142,6 +2212,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1149,6 +2228,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1156,6 +2244,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1163,6 +2260,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1170,6 +2276,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -1181,6 +2296,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -1189,6 +2313,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1196,6 +2329,15 @@ function eight(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1203,6 +2345,15 @@ function eight(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
@@ -1229,6 +2380,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("2").innerHTML == "o" && document.getElementById("3").innerHTML == "o"){
@@ -1237,6 +2397,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("6").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1244,6 +2413,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("4").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("6").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1251,6 +2429,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "x" && document.getElementById("8").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1258,6 +2445,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("7").innerHTML == "o" && document.getElementById("8").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1265,6 +2461,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //vertical
 
@@ -1277,6 +2482,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("4").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
@@ -1285,6 +2499,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("8").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1292,6 +2515,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("2").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("8").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1299,6 +2531,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("6").innerHTML == "x" && document.getElementById("9").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1306,6 +2547,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("6").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1313,6 +2563,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //horizantal
 
@@ -1324,6 +2583,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
         
     }
     else if(document.getElementById("1").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("9").innerHTML == "o"){
@@ -1332,6 +2600,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "x" && document.getElementById("5").innerHTML == "x" && document.getElementById("7").innerHTML == "x"){
         var win = document.getElementById("win");
@@ -1339,6 +2616,15 @@ function nine(){
         document.getElementById("x-player").style.transition = "all 1s";
         document.getElementById("x-player").style.display = "block";
         document.getElementById("x-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     else if(document.getElementById("3").innerHTML == "o" && document.getElementById("5").innerHTML == "o" && document.getElementById("7").innerHTML == "o"){
         var win = document.getElementById("win");
@@ -1346,6 +2632,15 @@ function nine(){
         document.getElementById("o-player").style.transition = "all 1s";
         document.getElementById("o-player").style.display = "block";
         document.getElementById("o-player").style.fontSize = "30px";
+        document.getElementById("1").disabled = true;
+document.getElementById("2").disabled = true;
+document.getElementById("3").disabled = true;
+document.getElementById("4").disabled = true;
+document.getElementById("5").disabled = true;
+document.getElementById("6").disabled = true;
+document.getElementById("7").disabled = true;
+document.getElementById("8").disabled = true;
+document.getElementById("9").disabled = true;
     }
     //two
 }
