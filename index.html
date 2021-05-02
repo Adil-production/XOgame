@@ -13,16 +13,18 @@
       left: 50%;
       transform: translate(-50% , -50%);
         }
+        
         .button{
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
             margin: 0px;
             width: 100px;
             height: 100px;
             font-size: 50px;
-            border: solid white 0.4px;
+            border: solid white 4px;
             background-color: cornflowerblue;
             color: white;
         }
+        
         #new-game{
             background-color: green;
             width: 100px;
@@ -82,11 +84,11 @@
     <button id="chose-o" onclick="choseo()">o</button>
 </div>
     <div id="all" align="center">
-    <button id="1" onclick="one()" class="button" >.</button><button id="2" onclick="two()" class="button">.</button><button id="3" onclick="three()" class="button">.</button>
-    <br>
-    <button id="4" onclick="four()" class="button">.</button><button id="5" onclick="five()" class="button">.</button><button id="6" onclick="six()" class="button">.</button>
-    <br>
-    <button id="7" onclick="seven()" class="button">.</button><button id="8" onclick="eight()" class="button">.</button><button id="9" onclick="nine()" class="button">.</button>
+        <button id="1" onclick="one()" class="button" style="border-top: solid white 0px; border-left: solid white 0px; border-bottom: solid white 0px;">.</button><button id="2" onclick="two()" class="button" style="border-top: 0px; border-bottom: 0px;">.</button><button id="3" onclick="three()" class="button" style="border-top: 0px; border-bottom: 0px; border-right : 0px">.</button>
+        <br>
+        <button id="4" onclick="four()" class="button" style="border-left: 0px;">.</button><button id="5" onclick="five()" class="button">.</button><button id="6" onclick="six()" class="button" style="border-right: 0px;">.</button>
+        <br>
+        <button id="7" onclick="seven()" class="button" style="border-left: 0px; border-bottom: 0px; border-top: 0px;">.</button><button id="8" onclick="eight()" class="button" style="border-bottom: 0px; border-top: 0px;">.</button><button id="9" onclick="nine()" class="button" style="border-bottom: 0px; border-top: 0px; border-right:0px;">.</button>
     
 </div>
 
